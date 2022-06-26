@@ -1,0 +1,4 @@
+pages\DashboardPage.class
+pages\ForgotPasswordPage.class
+pages\LoginPage.class
+pages\MyInfoPage.class

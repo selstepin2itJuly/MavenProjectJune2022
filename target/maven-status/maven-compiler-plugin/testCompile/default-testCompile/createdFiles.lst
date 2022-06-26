@@ -1,0 +1,5 @@
+testcases\LoginTest.class
+testcases\DashboardTest.class
+testcases\MyInfoTest.class
+utilities\TestUtility.class
+testbase\TestBase.class
